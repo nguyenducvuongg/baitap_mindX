@@ -1,0 +1,124 @@
+*{ margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial;
+
+}
+.header{
+    display: flex;
+    padding: 10px 20px;
+    background-color: green;
+    align-items: center;
+
+}
+.logo{ 
+    color: black;
+    width: 30%;
+    font-weight:700;
+    font-size: 30px;
+
+}
+.menu {
+    display: flex; 
+}
+.menu p {
+    color: black;
+    padding: 0px 35px;
+    font-size: 20px;
+    border-right: 1px solid black;
+}
+.noborder{ border-right: 0px !important;}
+#page-content-1{
+   background-color: black;
+   width: 100%;
+   height: 600px;
+
+}
+.HI-MINDX{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px ;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+
+
+}
+.aboutme{
+    color: green;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px ;
+   justify-content: center;
+   display: flex;
+   padding-top: 20px;
+   font-size: 30px;
+}
+.content1-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+}
+.img1 {
+    width: 25%;
+    height: 50%;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+}
+.content_about_me{
+ color: white;
+ width: 55%;
+ height: auto;
+ line-height: 20px;
+ font-size: 20px;
+
+
+}
+.p2 {
+    background-color: white;
+    
+
+
+}
+.PROJECTS{
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px ;
+   justify-content: center;
+   padding-top: 20px;
+   font-size: 30px;
+  text-align: center;
+  border-bottom: 1px solid black;
+  width: 10%;
+  margin: auto;
+   
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+}
+.p2{
+    display: flex;
+
+}
+.img2{
+    width: 25%;
+    height: 50%;
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    
+}
+.list1{
+    color: black;
+}
+
+

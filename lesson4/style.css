@@ -1,0 +1,52 @@
+*{ margin: 0px;
+    padding: 0px ;
+    box-sizing: border-box;
+
+
+}
+
+:root {
+    midnight: #34495e
+    
+}
+.container{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    text-align: left;
+    margin: 3px;
+    border-radius: 17px;
+    overflow: hidden;
+
+    
+
+
+}
+.class_img{
+    width: 100%;
+    height: auto;
+}
+.class-main{
+    text-align: left;
+    padding: 12px 16px 16px 20px;
+}
+.class-h5{
+    color:darkgray ;
+   
+}  
+.class-h2{
+    font-weight: 500px;
+    color: black;
+    margin-bottom: 12px;
+    line-height: 30px;
+    
+}
+.class-p{
+    color: darkgray;
+}
+body{
+    background-color: #34495e
+
+    
+}
+.card{}
