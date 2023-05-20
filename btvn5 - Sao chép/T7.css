@@ -1,0 +1,176 @@
+*{ margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial;
+
+}
+body{
+    text-align: center;
+    background-color: azure;
+}
+.header-container{
+    background-color: white;
+}
+.cloud1{
+    position: absolute;
+    right: 250px;
+    top: 30px;
+    width: 250px;
+    height: auto;
+}
+.content{padding-top: 250px;}
+.hi{
+    font-family: Verdana;
+    font-size: 90px;
+    font-weight: bold;
+    color: aqua;
+
+
+}
+.Pro{
+    font-size: 50px;
+    color: aquamarine;
+    
+}
+span{ 
+    border-bottom: 5px solid aquamarine;
+}
+.cloud2{
+    position: absolute;
+    left: 90px;
+    width: 150px;
+    height: auto;
+    
+    
+}
+.city{
+    padding-top: 200px;
+    width: 700px;
+}
+.lucy{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+.hello{
+    font-size: 50px;
+    margin: 30px;
+    color: aquamarine;
+
+}
+.intro{
+    margin-top: 70px;
+    font-size: 35px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.profile{
+    margin-top: 250px;
+}
+.skill{
+    margin-top: 70px;
+    font-size: 50px;
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skill1{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.wedskill{
+    width: 500px;
+    height: auto;
+    
+    
+}
+.skill-content1{
+    text-align: left;
+    font-size: 30px ;
+    display: block;
+    padding-left: 20%;
+    margin-right: 20%;
+    margin-left: 0%;
+}
+.skill-name{
+color: aquamarine;
+font-weight: 300;
+font-size: larger;
+margin-bottom: 15px;
+
+}
+.skill2{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-size: 30px;
+    
+}
+.skill-content2{
+    margin-left: 20%;
+
+}
+.interest-name{
+    font-size:larger ;
+    font-weight: 250;
+    color: aquamarine;
+    margin-bottom: 15px;
+}
+.touch{
+    font-size: 50px;
+    color: aquamarine;
+    margin-bottom: 50px;
+    font-weight: 500;
+}  
+.page1{
+    font-size: 20px;
+    font-weight: 300;
+    color: aquamarine;
+    margin-bottom: 50px;
+
+
+} 
+.page2{
+    width: 35%;
+    margin: 40px auto 60px;
+    font-size: 15px;
+}
+.btn-contact-me{
+   width: 15%;
+   height: 50px;
+   font-size: 20px;
+   background-color: aqua;
+   color: white;
+   padding: 10px 20px;
+   border-radius: 10px;
+   margin-bottom: 50px;
+   
+   
+}
+.footer-container{
+    background-color: aquamarine;
+    
+}
+.link {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 70px;
+    padding-bottom:70px ;
+    margin: 10px 500px;
+    
+}
+a{color: white;}
+footer > p {
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    padding:0px 0px 80px ;
+}
+
+ 
+
+
