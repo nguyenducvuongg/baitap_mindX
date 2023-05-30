@@ -1,0 +1,78 @@
+body {
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Wix Madefor Display', sans-serif;
+    overflow: hidden;
+
+
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    height: 80px;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0), ;
+}
+
+.mindxshop {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.list {
+    width: 20%;
+    justify-content: space-around;
+    font-size: 15px;
+    display: flex;
+
+}
+
+.main-container {
+    display: flex;
+
+}
+
+.search {
+    width: 300px;
+    height: 100vh;
+    padding: 25px;
+    text-align: center;
+    flex-direction: column;
+}
+
+.buger-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    padding: 20px;
+    grid-auto-rows: 1fr;
+    overflow: auto;
+
+
+}
+
+.buger {
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    overflow: hidden;
+
+    
+}
+
+.buger-content {
+    padding-left: 20px;
+    text-align: left;
+
+}
+footer{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
